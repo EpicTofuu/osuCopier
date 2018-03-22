@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osuCopier", "osuCopier\osuCopier.csproj", "{4043E571-5987-408F-998B-CD934AD37ECA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIApp", "osuCopier\CLIApp.csproj", "{4043E571-5987-408F-998B-CD934AD37ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyAPI", "CopyAPI\CopyAPI.csproj", "{16684B91-4017-49AD-BFEC-6044B455A565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4043E571-5987-408F-998B-CD934AD37ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4043E571-5987-408F-998B-CD934AD37ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4043E571-5987-408F-998B-CD934AD37ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16684B91-4017-49AD-BFEC-6044B455A565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16684B91-4017-49AD-BFEC-6044B455A565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16684B91-4017-49AD-BFEC-6044B455A565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16684B91-4017-49AD-BFEC-6044B455A565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

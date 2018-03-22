@@ -10,6 +10,7 @@ namespace osuCopier
     {
         static void Main(string[] args)
         {
+            CLI m = new CLI();
         }
     }
 }
