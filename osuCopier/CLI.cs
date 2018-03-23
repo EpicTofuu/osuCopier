@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
-using CopyAPI;
+using CopyAPI
+
 namespace osuCopier
 {
     public class CLI
