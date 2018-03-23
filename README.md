@@ -2,7 +2,7 @@
 An application that can copy all music in your osu! folder to any other specified folder
 
 ## Use
-Ever wanted to listen to your osu! library but hate opening the client in the background? Simply use osu!Copier. With osu!Copier, you can copy all of your osu! music to any folder you want so you can listen to your entire osu! library using whatever music playing you would like to use.
+Ever wanted to listen to your osu! library but hate opening the client in the background? Simply use osu!Copier. With osu!Copier, you can copy all of your osu! music to any folder you want so you can listen to your entire osu! library using whatever music player you would like to use.
 
 I'm not all that sure about how building works, so just download visual studio (or some other C# compiler) and build everything yourself.
 
