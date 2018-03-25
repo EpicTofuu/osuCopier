@@ -13,7 +13,7 @@ osu!Copier makes sure to copy over only new songs so you can constantly update a
 osu!Copier is in no way affiliated with osu! or ppy. It is simply a small project I made for my own purposes.
 
 ## Interesting stuff
-osu!Copier seperates all the high level code from the low level code into two namespaces, this means that you can use all of the low level code that osu!Copier uses in your own code with relative ease. You will need to use the beatmap API smoogipoo made <a href = "https://github.com/smoogipoo/osu-BMAPI"> found here </a>.
+osu!Copier seperates all the high level code from the low level code into two namespaces, this means that you can use all of the low level code that osu!Copier uses in your own code with relative ease. You will need to use the beatmap API smoogipoo made <a href = "https://github.com/smoogipoo/osu-BMAPI"> found here</a>.
 
 Example <br>
 Move all songs from osu! folder to another folder using only one method
