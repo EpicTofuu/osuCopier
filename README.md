@@ -12,18 +12,4 @@ osu!Copier makes sure to copy over only new songs so you can constantly update a
 
 osu!Copier is in no way affiliated with osu! or ppy. It is simply a small project I made for my own purposes.
 
-## Interesting stuff
-osu!Copier seperates all the high level code from the low level code into two namespaces, this means that you can use all of the low level code that osu!Copier uses in your own code with relative ease. You will need to use the beatmap API smoogipoo made <a href = "https://github.com/smoogipoo/osu-BMAPI"> found here</a>.
-
-Example <br>
-Move all songs from osu! folder to another folder using only one method
-```
-string InDir = @"C:\Users\Shieyn\AppData\Local\osu!";
-string OutDIr = @"C:\osu music"
-
-var result = OsuLib.Perform (InDir, OutDir, true);
-if (result == 0)
-{
-  Console.WriteLine ("something went wrong");
-}
-```
+# the code is very unnecessarily complicated, i know. But it works, and I don't want to touch this anymore
